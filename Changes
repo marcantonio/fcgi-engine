@@ -1,5 +1,8 @@
 Revision history for Perl extension FCGI-Engine
 
+0.23 Fri, Feb. 3th, 2017
+    - Implement pm_exit().
+    
 0.22 Sun, Aug. 24th, 2014
     - Add $request object to params passed to 
       handle_request to support FCGI forking in 

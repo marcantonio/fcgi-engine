@@ -5,7 +5,7 @@ use Class::Load ();
 use CGI::Simple;
 use Class::Load;
 
-our $VERSION   = '0.22';
+our $VERSION   = '0.23';
 our $AUTHORITY = 'cpan:STEVAN';
 
 extends 'FCGI::Engine::Core';

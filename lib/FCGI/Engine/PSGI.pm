@@ -3,7 +3,7 @@ use Moose;
 
 use Plack::Util;
 
-our $VERSION   = '0.22';
+our $VERSION   = '0.23';
 our $AUTHORITY = 'cpan:STEVAN';
 
 extends 'FCGI::Engine::Core';
